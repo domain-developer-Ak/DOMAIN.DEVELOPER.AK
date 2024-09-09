@@ -1,3 +1,5 @@
+//EXPAND THE STRING
+
 import java.util.*;
 public class tricky_program1 {
     public static void main(String[] args) {
