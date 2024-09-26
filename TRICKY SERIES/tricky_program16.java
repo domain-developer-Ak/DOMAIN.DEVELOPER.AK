@@ -47,3 +47,18 @@ public class tricky_program16 {
         System.out.println(jackscore+","+jillscore);
     }
 }
+
+/*
+Two persons Jill and Jack were playing a game where scores must be calculated.
+If Jack starts the game he must choose the largest value in the Array.
+Now the index visited by Jack must me locked and Jill must not visit the same index.
+After N rounds the person with maximum score must be printed as output.
+
+INPUT:
+4
+{1, 2, 3, 4}
+{4, 3, 5, 1}
+
+OUTPUT:
+9  //Jill scored the highest.
+ */
